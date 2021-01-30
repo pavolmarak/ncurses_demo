@@ -1,2 +1,2 @@
 # ncurses_demo
-ncurses demo
+ncurses demo for Windows
